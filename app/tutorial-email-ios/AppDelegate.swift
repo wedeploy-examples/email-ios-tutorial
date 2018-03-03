@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Boilerplate-email
+//  Tutorial-email
 //
 //  Created by Víctor Galán on 10/4/17.
 //  Copyright © 2017 liferay. All rights reserved.
