@@ -20,7 +20,7 @@
         <!--Email View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="EmailViewController" customModule="Boilerplate_email" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="EmailViewController" customModule="Tutorial_email" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
@@ -35,7 +35,7 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="email" textAlignment="natural" minimumFontSize="17" clearButtonMode="whileEditing" translatesAutoresizingMaskIntoConstraints="NO" id="wOI-MD-KWA" customClass="BorderLessTextField" customModule="Boilerplate_email" customModuleProvider="target">
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="email" textAlignment="natural" minimumFontSize="17" clearButtonMode="whileEditing" translatesAutoresizingMaskIntoConstraints="NO" id="wOI-MD-KWA" customClass="BorderLessTextField" customModule="Tutorial_email" customModuleProvider="target">
                                 <rect key="frame" x="20" y="160" width="335" height="60"/>
                                 <color key="backgroundColor" red="0.054901960780000002" green="0.074509803920000006" blue="0.1019607843" alpha="0.050000000000000003" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
@@ -45,7 +45,7 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="16"/>
                                 <textInputTraits key="textInputTraits" returnKeyType="next"/>
                             </textField>
-                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="password" textAlignment="natural" minimumFontSize="17" clearButtonMode="whileEditing" translatesAutoresizingMaskIntoConstraints="NO" id="6DO-Fo-pUh" customClass="BorderLessTextField" customModule="Boilerplate_email" customModuleProvider="target">
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="password" textAlignment="natural" minimumFontSize="17" clearButtonMode="whileEditing" translatesAutoresizingMaskIntoConstraints="NO" id="6DO-Fo-pUh" customClass="BorderLessTextField" customModule="Tutorial_email" customModuleProvider="target">
                                 <rect key="frame" x="20" y="270" width="335" height="60"/>
                                 <color key="backgroundColor" red="0.94509803920000002" green="0.94509803920000002" blue="0.94509803920000002" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
@@ -58,7 +58,7 @@
                                     <userDefinedRuntimeAttribute type="boolean" keyPath="isPasswordField" value="NO"/>
                                 </userDefinedRuntimeAttributes>
                             </textField>
-                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="password" textAlignment="natural" minimumFontSize="17" clearButtonMode="whileEditing" translatesAutoresizingMaskIntoConstraints="NO" id="loS-fl-pvJ" customClass="BorderLessTextField" customModule="Boilerplate_email" customModuleProvider="target">
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="password" textAlignment="natural" minimumFontSize="17" clearButtonMode="whileEditing" translatesAutoresizingMaskIntoConstraints="NO" id="loS-fl-pvJ" customClass="BorderLessTextField" customModule="Tutorial_email" customModuleProvider="target">
                                 <rect key="frame" x="20" y="380" width="335" height="60"/>
                                 <color key="backgroundColor" red="0.94509803920000002" green="0.94509803920000002" blue="0.94509803920000002" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
@@ -101,7 +101,7 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Gva-UZ-q1m" customClass="WeColorButton" customModule="Boilerplate_email" customModuleProvider="target">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Gva-UZ-q1m" customClass="WeColorButton" customModule="Tutorial_email" customModuleProvider="target">
                                 <rect key="frame" x="20" y="480" width="335" height="60"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="wgP-ry-Ld6"/>
